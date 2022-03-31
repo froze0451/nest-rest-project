@@ -16,7 +16,7 @@ $ yarn
 ```bash
 $ npm run start
 #or
-$ yarn
+$ yarn run start
 ```
 
 ## Api
