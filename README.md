@@ -29,6 +29,6 @@ $ yarn run start
 
 ## Api
 ```bash
-# HOST browse using Postman / Insomina or other
+# HOST browse using Postman / Insomnia or other
 http://localhost:3000/
 ```
